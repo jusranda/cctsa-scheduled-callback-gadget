@@ -47,7 +47,7 @@ app.post('/', async (req, res) => {
 // Create server socket and listen for requests.
 const listenPort = parseInt(process.env.PORT) || 8080;
 app.listen(listenPort, () => {
-    console.log(`cctsa-scheduled-callback-gadget: listening on port ${listenPort}`);
+    console.log(`voice-trigger-workflows-gadget: listening on port ${listenPort}`);
 });
 
 module.exports = app;
