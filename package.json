@@ -2,7 +2,7 @@
   "name": "voice-trigger-workflows-gadget",
   "version": "0.0.1",
   "private": "true",
-  "description": "Webex Contact Center Agent Desktop Widget and Handler for Node/Express on Google Cloud Run with Cloud Build.",
+  "description": "Webex Contact Center Agent Desktop Widget and Handler for Node/Express on Google Cloud Run/Cloud Build.",
   "main": "src/server/index.js",
   "scripts": {
     "build": "webpack",
